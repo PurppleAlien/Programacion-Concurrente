@@ -1,7 +1,6 @@
 # Programación Concurrente
 
-**Alumno:** Soria Rodriguez Juan Antonio G.  
-**Matrícula:** 2203041232
+**Autor:** Soria Rodriguez Juan Antonio G.  
 
 Repositorio de prácticas de la materia Programación Concurrente. Todos los programas están escritos en C y compilados con `gcc`.
 
