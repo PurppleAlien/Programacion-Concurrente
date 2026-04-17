@@ -1,7 +1,6 @@
-# Práctica 1 — Calculadora de Sistemas de Numeración
+# Calculadora de Sistemas de Numeración
 
-**Alumno:** Soria Rodriguez Juan Antonio G.  
-**Matrícula:** 2203041232  
+**Autor:** Soria Rodriguez Juan Antonio G.  
 **Materia:** Programación Concurrente
 
 ## Descripción

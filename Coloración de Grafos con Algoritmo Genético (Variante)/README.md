@@ -1,16 +1,15 @@
-# Práctica 7 — Coloración de Grafos con Algoritmo Genético (Variante)
+# Coloración de Grafos con Algoritmo Genético (Variante)
 
-**Alumno:** Soria Rodriguez Juan Antonio G.  
-**Matrícula:** 2203041232  
+**Autor:** Soria Rodriguez Juan Antonio G.  
 **Materia:** Programación Concurrente
 
 ## Descripción
 
 Resuelve el problema de **coloración de grafos** (problema de 4 colores en mapas) mediante un algoritmo genético. A diferencia de la Práctica 6, trabaja con una **matriz de adyacencia fija 4×4** (16 regiones) definida en el código, con población de tamaño 8 y criterio de parada cuando el fitness es 0.
 
-### Diferencias respecto a Práctica 6
+### Diferencias respecto a Coloración de Grafos (versión completa)
 
-| Característica | Práctica 6 | Práctica 7 |
+| Característica | Versión completa | Esta variante |
 |---|---|---|
 | Grafo | Desde archivo `.txt` | Hardcoded en el código |
 | Tamaño | Hasta 1000 regiones | 16 regiones (4×4) |
@@ -78,4 +77,4 @@ Cromosoma: [0, 1, 2, 3, 1, 0, 2, 1, ...]
 
 ## Notas
 - La matriz de adyacencia está **parcialmente definida** en el código (solo 5 de 16 filas tienen valores completos). Las filas restantes están inicializadas en 0.
-- Para usar grafos más complejos, se recomienda usar `Practica 6` con archivos `.txt`.
+- Para usar grafos más complejos, se recomienda usar la versión completa con archivos `.txt`.

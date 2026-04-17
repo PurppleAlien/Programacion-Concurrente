@@ -1,7 +1,6 @@
-# Práctica 2 — Métodos de Ordenamiento
+# Métodos de Ordenamiento
 
-**Alumno:** Soria Rodriguez Juan Antonio G.  
-**Matrícula:** 2203041232  
+**Autor:** Soria Rodriguez Juan Antonio G.  
 **Materia:** Programación Concurrente
 
 ## Descripción

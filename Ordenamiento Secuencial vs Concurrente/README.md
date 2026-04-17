@@ -1,7 +1,6 @@
-# Práctica 5 — Ordenamiento Secuencial vs Concurrente
+# Ordenamiento Secuencial vs Concurrente
 
-**Alumno:** Soria Rodriguez Juan Antonio G.  
-**Matrícula:** 2203041232  
+**Autor:** Soria Rodriguez Juan Antonio G.  
 **Materia:** Programación Concurrente
 
 ## Descripción
@@ -26,8 +25,6 @@ Compara el rendimiento de cuatro algoritmos de ordenamiento ejecutados de forma 
 ## Compilación y ejecución
 
 ```bash
-cd "Practica 5"
-
 # Versión secuencial
 gcc -o secuencial Practica5_ASecuencial.c
 ./secuencial

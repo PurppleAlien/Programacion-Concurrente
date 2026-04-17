@@ -1,4 +1,4 @@
-# Práctica 3 — Algoritmo Genético para Armaduras Planas
+# Algoritmo Genético para Armaduras Planas
 
 **Autores:** Erick Ricardo Martínez Martínez & Juan Antonio Soria Rodriguez  
 **Fecha:** 15/11/2024  
@@ -25,12 +25,11 @@ Implementación de un algoritmo genético para resolver el problema de optimizac
 | `va/practica3.c` | Variante del programa principal |
 | `Practica3_/p2v3.c` | Otra versión de desarrollo |
 | `Practica3_/prueba1.dat` | Archivo de datos de prueba |
-| `Practica3_/Practica 6/` | Material adicional: grafos y variantes genéticas |
+| `Practica3_/Practica 6/` | Material adicional: grafos y variantes genéticas (carpeta de referencia) |
 
 ## Compilación y ejecución
 
 ```bash
-cd "Practica 3 concurrente"
 gcc -o practica3 practica3.c
 ./practica3
 ```

@@ -1,7 +1,6 @@
-# Práctica 4 — Árbol Binario de Procesos
+# Árbol Binario de Procesos
 
-**Alumno:** Soria Rodriguez Juan Antonio G.  
-**Matrícula:** 2203041232  
+**Autor:** Soria Rodriguez Juan Antonio G.  
 **Materia:** Programación Concurrente
 
 ## Descripción
@@ -16,8 +15,6 @@ Genera un árbol binario de procesos con la profundidad indicada por el usuario.
 ## Compilación y ejecución
 
 ```bash
-cd Pracatica4_Concurrente
-
 # Programa A — iterativo
 gcc -o Practica4_A Practica4_A.c
 ./Practica4_A

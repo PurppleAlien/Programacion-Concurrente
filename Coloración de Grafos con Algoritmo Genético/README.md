@@ -1,7 +1,6 @@
-# Práctica 6 — Coloración de Grafos con Algoritmo Genético
+# Coloración de Grafos con Algoritmo Genético
 
-**Alumno:** Soria Rodriguez Juan Antonio G.  
-**Matrícula:** 2203041232  
+**Autor:** Soria Rodriguez Juan Antonio G.  
 **Materia:** Programación Concurrente
 
 ## Descripción
@@ -43,16 +42,13 @@ Resuelve el problema de **coloración de mapas/grafos** usando un algoritmo gen�
 ## Compilación y ejecución
 
 ```bash
-cd "Practica 6"
-
-# Programa principal
-gcc -o Practica6 Practica6.c
-./Practica6 MaterialPractica6/graf10x10.txt
+gcc -o Coloracion Practica6.c
+./Coloracion MaterialPractica6/graf10x10.txt
 ```
 
 El programa recibe el **archivo del grafo como argumento**:
 ```
-./Practica6 <archivo_grafo>
+./Coloracion <archivo_grafo>
 ```
 
 ## Uso
