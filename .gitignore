@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Archivos comprimidos
+*.zip
+
+# Binarios compilados (archivos sin extensión)
+**/Practica1
+**/Practica4_A
+**/Practica4_B
+**/Practica6
+**/Genetico
+**/GENETICOI
+**/GENETICOII
+**/VisualizacionGrafos
+**/secuencial
+**/yoli
+**/p3
+**/p3v2
+**/p2v3
+**/practica3
+**/Practica1_A
+**/Practica1_B
+**/burbuja
+**/insercion_Directa
+**/merge_sort
+**/seleccion_directa
+**/suma
+**/resta
+**/fork
