@@ -1,4 +1,4 @@
-# Programación Concurrente
+# Programación Concurrente C
 
 **Autor:** Soria Rodriguez Juan Antonio G.  
 **Materia:** Programación Concurrente
