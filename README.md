@@ -1,7 +1,6 @@
-# Programación Concurrente C
+# Programación Concurrente en C
 
 **Autor:** Soria Rodriguez Juan Antonio G.  
-**Materia:** Programación Concurrente
 
 Repositorio de proyectos de la materia Programación Concurrente. Todos los programas están escritos en C y compilados con `gcc`.
 
